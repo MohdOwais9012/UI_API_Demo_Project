@@ -1,0 +1,44 @@
+
+```plaintext
+# Node modules
+node_modules/
+
+# Playwright report files
+playwright-report/
+test-results/
+
+# Environment variables
+.env
+
+# Logs and cache files
+*.log
+.cache/
+
+# Compiled TypeScript files
+*.js
+*.js.map
+*.d.ts
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system files
+*.log
+*.bak
+*.swp
+
+# Ignore temporary folders
+.vscode/
+.idea/
+*.zip
+*.tar
+*.tar.gz
+
+# Add any specific folders or files that you don't want to track
+Downloads/
+AppData/
